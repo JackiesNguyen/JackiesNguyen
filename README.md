@@ -9,7 +9,7 @@
 
 <h2 align="center">About me (￣ ▽ ￣) ノ</h2>
 
-```JS
+JS
   const getAboutMe = () =>{
       return {
         basicLanguage: "C++,C#",
@@ -20,7 +20,7 @@
         learning:"Docker, MongoDB ....",
       }
   }
-```
+
 
 
 ## <p align="center">Top languages &#9997;</p>
