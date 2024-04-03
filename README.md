@@ -9,7 +9,7 @@
 
 <h2 align="center">About me (￣ ▽ ￣) ノ</h2>
 
-JS
+```JS
   const getAboutMe = () =>{
       return {
         basicLanguage: "C++,C#",
@@ -20,6 +20,7 @@ JS
         learning:"Docker, MongoDB ....",
       }
   }
+```
 
 
 
