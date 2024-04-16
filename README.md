@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm [JackiesNguyen](https://porfolio-jackiesnguyen.vercel.app/), a FrontEnd Developer 🚀 from VietNam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.ưgrteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+Hi, I'm [JackiesNguyen](https://porfolio-jackiesnguyen.vercel.app/), a FrontEnd Developer 🚀 from VietNam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
