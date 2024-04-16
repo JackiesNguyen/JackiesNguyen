@@ -53,7 +53,7 @@ Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer �
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
+Vue.js       8 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
 C++          4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
 Markdown     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 JavaScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
@@ -67,8 +67,3 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 </details>
-
------
-Credits: [abhisheknaiidu](https://github.com/abhisheknaiidu)
-
-Last Edited on: 30/08/2020
