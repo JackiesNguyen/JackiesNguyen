@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm NGUYEN VAN HAI
 <a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="JackiesNguyen's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
