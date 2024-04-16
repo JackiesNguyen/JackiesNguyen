@@ -61,9 +61,5 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JackiesNguyen&show_icons=true&theme=gotham" alt="JackieNguyen" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
