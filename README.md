@@ -31,6 +31,8 @@ My key skills include:
 
 </div>
 
+<br>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
