@@ -33,7 +33,7 @@ My key skills include:
 
 <br>
 <br>
-<span><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="JavaScript logo" title="JavaScript"  /></span>
+<p align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="JavaScript logo" title="JavaScript" width="500"  /></span>
 <br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
