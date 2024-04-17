@@ -2,8 +2,8 @@
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="JackiesNguyen's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="JackiesNguyen's X" width="22px" src="https://i.pinimg.com/originals/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg" />
+<a href="https://www.facebook.com/vanhai0610/">
+  <img align="left" alt="JackiesNguyen's X" width="22px" src="https://i.pinimg.com/originals/66/0b/cb/660bcb3e9408cfa1747d2d6e4c8c4526.png" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
