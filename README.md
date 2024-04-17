@@ -61,7 +61,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://porfolio-jackiesnguyen.vercel.app/" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/bubbles/100/000000/user.png" alt="jackiesNguyen-blog" />
+    <img src="https://img.icons8.com/bubbles/100/000000/user.png" alt="jackiesNguyen-blog" />
   </a>
   <a href="https://www.facebook.com/vanhai0610/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jackiesNguyen-facebook" />
