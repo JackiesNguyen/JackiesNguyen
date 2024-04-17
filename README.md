@@ -2,6 +2,36 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WELLCOME+TO+MY+GITHUB+PROFILE;I'M+NGUYEN+VAN+HAI+(JACKIESNGUYEN);I'M+FRONTEND+DEVELOP" alt="Typing SVG" /></a>
 
+<br>
+
+<div>
+<span>
+I'm a frontend engineer with 2 years of experience in web development. With a deep passion for technology and creativity, I've been involved in various projects, ranging from personal websites to complex enterprise applications.
+
+My key skills include:
+
+  <ul>
+    <li>
+        Proficiency in tools and languages like HTML, CSS, and JavaScript to create beautiful and interactive user interfaces.
+    </li>
+    <li>
+        Solid understanding of popular frameworks such as ReactJS and AngularJS, optimizing performance and maintainability of applications.
+    </li>
+    <li>
+        Experience working with common development libraries and tools like Bootstrap, jQuery, and Sass.
+    </li>
+    <li>
+        Strong teamwork, effective communication, and problem-solving skills.
+    </li>
+    <li>
+        I'm always eager to learn and grow, and I'm looking forward to contributing to new projects and amazing teams.
+    </li>
+  </ul>
+
+</span>
+
+</div>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -61,7 +91,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://porfolio-jackiesnguyen.vercel.app/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/user.png" alt="jackiesNguyen-blog" />
+    <img width="90" height="90" src="https://img.icons8.com/bubbles/100/000000/user.png" alt="jackiesNguyen-blog" />
   </a>
   <a href="https://www.facebook.com/vanhai0610/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jackiesNguyen-facebook" />
